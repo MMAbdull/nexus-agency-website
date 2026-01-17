@@ -1,4 +1,4 @@
-# ✦ Nexus Agency Website
+# Nexus Agency Website
 
 A finished, modern agency-style website crafted with **pure HTML and CSS**, designed to highlight clean layouts, smooth interactions, and strong visual hierarchy.
 
